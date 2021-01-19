@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://pkic.org//sitemap.xml
+Sitemap: https://pkic.org/sitemap.xml
